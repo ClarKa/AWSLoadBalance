@@ -1,0 +1,4 @@
+Which of these URLs are the best candidate for the health check (if you are using Port 80 on the Data Center)?
+http:///connection/load?id=46956
+http:///connection/load?id=1505
+http:///connection/load?id=3434
