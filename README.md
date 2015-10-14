@@ -6,10 +6,10 @@
 The project include three parts:
 
     1) Introduction to Scaling and Load Balancing.
-        - Done with Python and Boto package of AWS APIs.
+        - Done using Python and Boto package of AWS APIs.
         
     2) Advanced Resource Scaling Done.
-        - Done with Python and Boto package of AWS APIs.
+        - Done using Python and Boto package of AWS APIs.
         
-    3) The Internals and Strategies of a Load Balancer 
-        - Done with Python and Boto package of AWS APIs.
+    3) The Internals and Strategies of a Load Balancer. 
+        - Done using Java and AWS Java SDK.
